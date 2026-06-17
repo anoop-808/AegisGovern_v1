@@ -2,11 +2,21 @@
 
 ## Executive Summary
 
-AegisGovern_v1 is a cloud governance and security assessment project developed within Microsoft Azure using an Azure for Students subscription.
+A cloud governance and security assessment was conducted against the AegisGovern_v1 Microsoft Azure environment to evaluate identity management, network security, storage security, secrets management, and governance controls.
 
-The objective of the project was to simulate the activities performed by cloud security analysts during security reviews, governance assessments, risk identification, and control validation exercises.
+The assessment identified nine security findings across cloud resources, including public network exposure, excessive privilege assignments, secrets management risks, and access control weaknesses. Security controls such as SSH key authentication, Azure Key Vault integration, storage encryption, and Network Security Group filtering were successfully implemented and validated.
 
-The assessment covered virtual infrastructure, networking, identity and access management, cloud storage, and secrets management.
+Assessment Results:
+
+* Total Findings: 9
+* Medium Severity Findings: 7
+* Low Severity Findings: 2
+* Critical Findings: 0
+* High Findings: 0
+
+Overall Risk Rating: Medium
+
+The environment demonstrates a solid baseline cloud security posture and alignment with governance best practices. Additional hardening efforts related to RBAC governance, network access restrictions, and recovery planning are recommended to further reduce organizational risk.
 
 ---
 

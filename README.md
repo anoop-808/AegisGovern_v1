@@ -108,6 +108,39 @@ Project evidence is available in the `evidence/` directory.
 
 ---
 
+## Assessment Artifacts
+
+The project includes the following governance and security assessment deliverables:
+
+* Asset Inventory
+* Risk Register
+* Control Assessment
+* Compliance Mapping
+* Risk Scoring Methodology
+* MITRE ATT&CK Mapping
+* Remediation Plan
+* Executive Assessment Report
+
+These artifacts simulate documentation commonly produced during cloud security reviews, governance assessments, and risk management engagements.
+
+---
+
+## Assessment Methodology
+
+The assessment followed a governance-focused cloud security review process:
+
+1. Asset Identification
+2. Risk Assessment
+3. Security Control Validation
+4. Compliance Mapping
+5. MITRE ATT&CK Mapping
+6. Remediation Planning
+7. Executive Reporting
+
+This methodology mirrors activities performed by cloud security analysts and governance teams when evaluating cloud environments against security best practices.
+
+---
+
 ## Technologies Used
 
 * Microsoft Azure

@@ -1,6 +1,6 @@
 # AegisGovern_v1 Risk Register
 
-## Finding 001
+## AEGIS-001
 
 Asset:
 AegisGovern-VM
@@ -24,7 +24,7 @@ Monitor authentication logs
 
 ---
 
-## Finding 002
+## AEGIS-002
 
 Asset:
 AegisGovern-NSG
@@ -47,8 +47,8 @@ Least privilege access
 
 ---
 
-## Finding 003
-
+## AEGIS-003
+	
 Asset:
 AegisGovern-VNet
 
@@ -70,7 +70,7 @@ Traffic analysis
 Segmentation controls
 
 
-## Finding 004
+## AEGIS-004
 
 Title:
 Storage Account Accessible from Public Networks
@@ -98,7 +98,7 @@ Restrict access using selected networks, private endpoints, or approved IP range
 Status:
 Open
 
-## Finding 005
+## AEGIS-005
 
 Title:
 Privileged Owner Role Assigned at Subscription Scope
@@ -127,7 +127,7 @@ Use separate administrative and operational accounts in production environments.
 Status:
 Accepted Risk (Lab Environment)
 
-## Finding 006
+## AEGIS-006
 
 Title:
 Secrets Stored Outside Secure Vault
@@ -155,7 +155,7 @@ Mitigated
 
 ---
 
-## Finding 007
+## AEGIS-007
 
 Title:
 Key Vault Public Network Access Enabled
@@ -183,7 +183,7 @@ Open
 
 ---
 
-## Finding 008
+## AEGIS-008
 
 Title:
 Missing Least Privilege RBAC Controls
@@ -209,7 +209,7 @@ Implement Role Based Access Control and Least Privilege principles.
 Status:
 Open
 
-## Finding 009
+## AEGIS-009
 
 Title:
 Insufficient Key Vault RBAC Permissions
