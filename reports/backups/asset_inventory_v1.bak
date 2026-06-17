@@ -1,0 +1,113 @@
+# AegisGovern_v1 Asset Inventory
+
+## Asset 001
+
+Asset Name:
+AegisGovern-RG
+
+Type:
+Resource Group
+
+Purpose:
+Logical container for Azure resources
+
+Criticality:
+Medium
+
+Owner:
+Cloud Security Team
+
+---
+
+## Asset 002
+
+Asset Name:
+AegisGovern-VNet
+
+Type:
+Virtual Network
+
+Purpose:
+Provides network segmentation and connectivity
+
+Criticality:
+High
+
+Owner:
+Cloud Security Team
+
+---
+
+## Asset 003
+
+Asset Name:
+default
+
+Type:
+Subnet
+
+Purpose:
+Hosts virtual machine resources
+
+Criticality:
+High
+
+Owner:
+Cloud Security Team
+
+---
+
+## Asset 004
+
+Asset Name:
+AegisGovern-NSG
+
+Type:
+Network Security Group
+
+Purpose:
+Controls inbound and outbound network traffic
+
+Criticality:
+High
+
+Owner:
+Cloud Security Team
+
+---
+
+## Asset 005
+
+Asset Name:
+AegisGovern-VM
+
+Type:
+Ubuntu Virtual Machine
+
+Purpose:
+Simulated workload and security monitoring target
+
+Criticality:
+Critical
+
+Owner:
+Cloud Security Team
+
+---
+
+## Asset 006
+
+Asset Name:
+aegisgovstorage001
+
+Type:
+Storage Account
+
+Purpose:
+Cloud storage services
+
+Criticality:
+High
+
+Owner:
+Cloud Security Team
